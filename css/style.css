@@ -1,0 +1,16 @@
+#img {
+  text-align: center;
+}
+body {
+  background-color: #000000;
+}
+.textInput {
+  color: #C0C0C0;
+  text-align: center;
+}
+p {
+  color: #C0C0C0;
+}
+#selection {
+  text-align: right;
+}
